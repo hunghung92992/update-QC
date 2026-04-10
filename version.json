@@ -1,6 +1,6 @@
 {
-  "version": "1.0.3",
-  "release_date": "2026-03-20",
+  "version": "1.0.1",
+  "release_date": "2026-04-10",
   "download_url": "https://github.com/hunghung92992/update-QC/blob/main/AnyDesk.exe",
-  "release_notes": "- Thêm tính năng Auto Update\n- Cải thiện tốc độ vẽ biểu đồ Levey-Jennings"
+  "release_notes": "- Thêm tính năng Auto Update\n- Cải thiện tốc độ vẽ biểu đồ Levey-Jennings\n- Bổ sung thêm chức năng tài khoản VIEWER Chỉ cóthể xem chặn các thao tác khác.\n- Bổ sung thêm nút tăt mở chức năng đánh giá Westgard 1 mức và đa mức ở phần cài đặt."
 }
