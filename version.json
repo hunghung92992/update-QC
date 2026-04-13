@@ -1,5 +1,5 @@
 {
-  "version": "1.1.2",
+  "version": "1.1.3",
   "release_date": "2026-04-10",
   "download_url": "https://github.com/hunghung92992/update-QC.pro/releases/download/v1.1.1/Setup_QCLabManager_v1.1.3.exe",
   "release_notes": "Bổ sung thêm 6 tính năng mới. n/- Thêm tính năng Auto Update\n- Cải thiện tốc độ vẽ biểu đồ Levey-Jennings\n- Bổ sung thêm chức năng tài khoản VIEWER Chỉ cóthể xem chặn các thao tác khác.\n- Bổ sung thêm nút tăt mở chức năng đánh giá Westgard 1 mức và đa mức ở phần cài đặt. n/- tải mẫu nhập dư liệun/n- file dự liệu từ file EXCEL 1 ngày hoặc nhiều ngày."
